@@ -18,7 +18,7 @@ nav_order: 2
   These days, I'm also a visiting researcher at the
   <a href="https://www.mpi-sp.org/">Max Planck Institute for Security and Privacy (MPI-SP)</a> in Bochum, Germany.
   My work sits at the intersection of machine learning and security, with a focus on federated learning.
-  I'm particularly interested in gradient inversion attacks (basically, how models can unintentionally leak private data)ß
+  I'm particularly interested in gradient inversion attacks (basically, how models can unintentionally leak private data)
   and how to detect and defend against these risks.
 </p>
 
