@@ -84,4 +84,11 @@ ninja.data = [{
         handler: () => {
           window.open("https://scholar.google.com/citations?user=8OTGfJ8AAAAJ", "_blank");
         },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0004-3237-8670", "_blank");
+        },
       },];
