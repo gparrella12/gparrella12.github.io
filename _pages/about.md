@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Ph.D. Student · <a href="https://www.unisa.it/">University of Salerno</a>
+  Ph.D. Student · <a href="https://www.unisa.it/">University of Salerno (UniSa)</a>
 
 profile:
   align: right
@@ -25,6 +25,6 @@ latest_posts:
 ---
 
 Hello! 
-I am a Ph.D. researcher in Computer Engineering at the [University of Salerno](https://www.unisa.it/), Italy. Since March 2026, I am a visiting researcher in the SysSec group at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/), Bochum, Germany.
+I am a Ph.D. researcher in Computer Engineering at the [University of Salerno (UniSa)](https://www.unisa.it/), Italy. Since March 2026, I am a visiting researcher in the SysSec group at the [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/), Bochum, Germany.
 
 My research lies at the intersection of **machine learning security** and **distributed systems**, with a focus on privacy in federated learning. Specifically, I study gradient inversion attacks, techniques that allow an adversary to reconstruct private training data from model updates shared during the federated learning process. My work covers both the offensive side, analyzing the conditions under which reconstruction succeeds, and the defensive side, with contributions to detection methods and mitigation strategies.
