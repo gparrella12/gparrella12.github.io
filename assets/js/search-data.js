@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-the-detectability-of-active-gradient-inversion-attacks-in-federated-learning-has-been-accepted-at-the-47th-ieee-symposium-on-security-and-privacy-ieee-s-amp-amp-p-2026",
           title: 'Our paper On the Detectability of Active Gradient Inversion Attacks in Federated Learning...',
           description: "",
+          section: "News",},{id: "news-i-received-a-noteworthy-reviewer-recognition-for-my-work-in-the-artifact-evaluation-committee-of-the-35th-usenix-security-symposium-usenix-security-26",
+          title: 'I received a Noteworthy Reviewer Recognition for my work in the Artifact Evaluation...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
