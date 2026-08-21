@@ -7,35 +7,45 @@ nav: true
 nav_order: 3
 ---
 
-## Program Committee Member
+## Awards & Recognition
 
-**2027**
-
-- Artifact Evaluation Committee, Network and Distributed System Security Symposium (NDSS 2027)
-
-**2026**
-
-- Artifact Evaluation Committee, 35th USENIX Security Symposium
-- Technical Program Committee, SAFE-ML Track — 19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)
-
-**2025**
-
-- Technical Program Committee, 1st International Workshop on Blockchain for Decentralized Trust and Digital Identity (B4TI), co-located with BCCA 2025 (Dubrovnik, Croatia)
-- Technical Program Committee, Safe, Secure and Robust AI Track — 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2025)
+- **[Noteworthy Reviewer Recognition](https://secartifacts.github.io/usenixsec2026/awards#-noteworthy-reviewer-recognition)** — Artifact Evaluation Committee, 35th USENIX Security Symposium (2026)
 
 ---
 
-## Reviewer
+## Conferences
 
-#### Journals
+Each venue lists the roles I served in and the corresponding editions.
 
-- IEEE Internet of Things Journal
-- IEEE Transactions on Information Forensics and Security
+- **USENIX Security Symposium**
+  - Artifact Evaluation Committee — 2026 (35th edition), _[Noteworthy Reviewer Recognition](https://secartifacts.github.io/usenixsec2026/awards#-noteworthy-reviewer-recognition)_
+  - Sub-Reviewer — 2026
+- **Network and Distributed System Security Symposium (NDSS)**
+  - Artifact Evaluation Committee — 2027
+  - Sub-Reviewer — 2026
+- **ACM Conference on Computer and Communications Security (CCS)**
+  - Sub-Reviewer — 2026
+- **IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)**
+  - Technical Program Committee — 2027
+- **IEEE International Conference on Software Testing, Verification and Validation (ICST)**
+  - Technical Program Committee, SAFE-ML Track — 2026 (19th edition)
+- **ACM/SIGAPP Symposium on Applied Computing (SAC)**
+  - Technical Program Committee, Safe, Secure and Robust AI Track — 2025 (41st edition)
 
-#### Conferences
+---
 
-**2026**
+## Workshops
 
-- USENIX Security Symposium (Sub-Reviewer)
-- Network and Distributed System Security Symposium (NDSS) (Sub-Reviewer)
-- ACM Conference on Computer and Communications Security (CCS) (Sub-Reviewer)
+- **[ACM Workshop on Artificial Intelligence and Security (AISec)](https://aisec.cc/)**
+  - Technical Program Committee — 2026
+- **International Workshop on Blockchain for Decentralized Trust and Digital Identity (B4TI)**, co-located with BCCA
+  - Technical Program Committee — 2025 (1st edition, Dubrovnik, Croatia)
+
+---
+
+## Journals
+
+- **IEEE Internet of Things Journal**
+  - Reviewer
+- **IEEE Transactions on Information Forensics and Security**
+  - Reviewer
