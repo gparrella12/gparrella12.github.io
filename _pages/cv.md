@@ -15,7 +15,7 @@ nav_order: 2
   Master's degrees, and I'm now continuing there as a PhD student.
 </p>
 <p class="cv-lead">
-  These days, I'm also a visiting researcher at the
+  From March 1 to August 31, 2026, I was a visiting researcher at the
   <a href="https://www.mpi-sp.org/">Max Planck Institute for Security and Privacy (MPI-SP)</a> in Bochum, Germany.
   My work sits at the intersection of machine learning and security, with a focus on federated learning.
   I'm particularly interested in gradient inversion attacks (basically, how models can unintentionally leak private data)
@@ -62,7 +62,7 @@ nav_order: 2
 <h4 class="cv-heading">Experience</h4>
 
 <div class="row cv-entry">
-  <div class="col-sm-3 cv-year">2026 – present</div>
+  <div class="col-sm-3 cv-year">Mar 2026 – Aug 2026</div>
   <div class="col-sm-9">
     <strong>Visiting Researcher</strong><br>
     Max Planck Institute for Security and Privacy (MPI-SP), Bochum, Germany<br>
