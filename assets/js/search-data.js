@@ -50,7 +50,7 @@ ninja.data = [{
           title: 'I received a Noteworthy Reviewer Recognition for my work in the Artifact Evaluation...',
           description: "",
           section: "News",},{id: "news-i-received-a-distinguished-pc-member-award-for-my-work-in-the-program-committee-of-19th-acm-workshop-on-artificial-intelligence-and-security-aisec-co-located-with-acm-ccs-26",
-          title: 'I received a [Distinguished PC Member Award] for my work in the Program...',
+          title: 'I received a Distinguished PC Member Award for my work in the Program...',
           description: "",
           section: "News",},{
         id: 'social-email',
