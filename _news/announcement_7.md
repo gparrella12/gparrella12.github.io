@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a [**Distinguished PC Member Award**] for my work in the Program Committee of [19th ACM Workshop on Artificial Intelligence and Security (AiSeC)](https://aisec.cc/) (co-located with ACM CCS '26).
+I received a **Distinguished PC Member Award** for my work in the Program Committee of [19th ACM Workshop on Artificial Intelligence and Security (AISec)](https://aisec.cc/) (co-located with ACM CCS '26).
