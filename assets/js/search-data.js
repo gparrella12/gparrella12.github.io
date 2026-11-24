@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-received-a-noteworthy-reviewer-recognition-for-my-work-in-the-artifact-evaluation-committee-of-the-35th-usenix-security-symposium-usenix-security-26",
           title: 'I received a Noteworthy Reviewer Recognition for my work in the Artifact Evaluation...',
           description: "",
+          section: "News",},{id: "news-i-received-a-distinguished-pc-member-award-for-my-work-in-the-program-committee-of-19th-acm-workshop-on-artificial-intelligence-and-security-aisec-co-located-with-acm-ccs-26",
+          title: 'I received a [Distinguished PC Member Award] for my work in the Program...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
