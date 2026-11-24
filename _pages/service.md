@@ -11,6 +11,9 @@ nav_order: 3
 
 - **[Noteworthy Reviewer Recognition](https://secartifacts.github.io/usenixsec2026/awards#-noteworthy-reviewer-recognition)** — Artifact Evaluation Committee, 35th USENIX Security Symposium (2026)
 
+- **[Distinguished PC Member Award](https://secartifacts.github.io/usenixsec2026/awards#-noteworthy-reviewer-recognition)** — Program Committee of [19th ACM Workshop on Artificial Intelligence and Security (AiSeC)](https://aisec.cc/) (co-located with ACM CCS '26).
+
+
 ---
 
 ## Conferences
@@ -18,15 +21,17 @@ nav_order: 3
 Each venue lists the roles I served in and the corresponding editions.
 
 - **USENIX Security Symposium**
-  - Artifact Evaluation Committee — 2026 (35th edition), _[Noteworthy Reviewer Recognition](https://secartifacts.github.io/usenixsec2026/awards#-noteworthy-reviewer-recognition)_
-  - Sub-Reviewer — 2026
+  - Artifact Evaluation Committee — [2026](https://secartifacts.github.io/usenixsec2026/organizers) (35th edition), _[Noteworthy Reviewer Recognition](https://secartifacts.github.io/usenixsec2026/awards#-noteworthy-reviewer-recognition)_
+  - Sub-Reviewer — 2026, 2027
 - **Network and Distributed System Security Symposium (NDSS)**
-  - Artifact Evaluation Committee — 2027
-  - Sub-Reviewer — 2026
+  - Artifact Evaluation Committee — [2027](https://secartifacts.github.io/ndss2027/organizers)
+  - Sub-Reviewer — 2026, 2027
+- **IEEE Symposium on Security and Privacy (S&P)**
+  - Artifact Evaluation Committee — [2027](https://sp2027.ieee-security.org/cfartifacts.html)
 - **ACM Conference on Computer and Communications Security (CCS)**
-  - Sub-Reviewer — 2026
+  - Sub-Reviewer — 2026, 2027
 - **IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)**
-  - Technical Program Committee — 2027
+  - Technical Program Committee — [2027](https://satml.org/organization/)
 - **IEEE International Conference on Software Testing, Verification and Validation (ICST)**
   - Technical Program Committee, SAFE-ML Track — 2026 (19th edition)
 - **ACM/SIGAPP Symposium on Applied Computing (SAC)**
