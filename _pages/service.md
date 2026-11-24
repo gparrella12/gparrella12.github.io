@@ -13,7 +13,6 @@ nav_order: 3
 
 - **[Distinguished PC Member Award](https://secartifacts.github.io/usenixsec2026/awards#-noteworthy-reviewer-recognition)** — Program Committee of [19th ACM Workshop on Artificial Intelligence and Security (AiSeC)](https://aisec.cc/) (co-located with ACM CCS '26).
 
-
 ---
 
 ## Conferences
